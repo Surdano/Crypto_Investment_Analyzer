@@ -2,7 +2,7 @@
 
 ![Picture of coins representing three cryptocurrencies, Bitcoin, Ethereum Classic, and Cardano.](https://static.news.bitcoin.com/wp-content/uploads/2021/07/ada-eth-btc.jpg)
 
-### This program uses the K-Means Clustering along with Pricipal Component Analysis(PCA) to scale, analyze, and compare a number of crypto currencies and their price change on different timeframes.
+This program uses K-Means Clustering along with Principal Component Analysis(PCA) to scale, analyze, and compare a number of crypto currencies and their price change on different timeframes.
 
 ---
 
